@@ -6,6 +6,8 @@ O intuito principal deste aplicativo é auxiliar produtores rurais no controle e
 ## Estrutura do repositório:
 ### Desing System:
 - https://github.com/MarianneLeiteNascimento/app_NeoGotejo_desing/tree/main/desingsystem
+### Protótipo navegável:
+- https://github.com/MarianneLeiteNascimento/app_NeoGotejo_desing/tree/main/prototipo
 
 ## Status do projeto:
 *Em desenvolvimento*
